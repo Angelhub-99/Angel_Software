@@ -6,13 +6,6 @@
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
 
 A beautiful, modern all-in-one desktop application built with Python Tkinter featuring four powerful tools in a single interface.
-
-## 📸 Application Preview
-
-![Modern Multi-Purpose App - Contact Manager](screenshots/contact_manager.png)
-
-*Contact Manager interface showing the clean, modern design with contact list and input form*
-
 ## ✨ Features
 
 ### 📇 Contact Manager
