@@ -1,0 +1,19 @@
+# Modern Multi-Purpose Application Requirements
+# Python 3.7+
+
+# Note: tkinter comes pre-installed with Python on Windows and macOS
+# For Linux users, install tkinter separately:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# Fedora: sudo dnf install python3-tkinter
+# Arch: sudo pacman -S tk
+
+# No additional packages required!
+# All dependencies are part of Python's standard library:
+# - tkinter (GUI framework)
+# - json (data storage)
+# - datetime (date calculations)
+# - os (file operations)
+
+# Optional: For creating executable
+pyinstaller>=6.0.0
+auto-py-to-exe>=2.43.0
