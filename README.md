@@ -7,13 +7,17 @@
 
 A beautiful, modern all-in-one desktop application built with Python Tkinter featuring four powerful tools in a single interface.
 
-![App Screenshot](screenshot.png)
+## 📸 Application Preview
+
+![Modern Multi-Purpose App - Contact Manager](screenshots/contact_manager.png)
+
+*Contact Manager interface showing the clean, modern design with contact list and input form*
 
 ## ✨ Features
 
 ### 📇 Contact Manager
 - **Save & Organize Contacts** - Store unlimited contacts with name, phone, email, and address
-- **Search Functionality** - Instantly find contacts by name
+- **Search Functionality** - Instantly find contacts by name with real-time filtering
 - **CRUD Operations** - Add, update, delete, and view contacts with ease
 - **Persistent Storage** - All data saved locally in JSON format
 - **Clean Interface** - Modern tabular view with selection support
@@ -39,12 +43,12 @@ A beautiful, modern all-in-one desktop application built with Python Tkinter fea
 
 ## 🎨 Design Highlights
 
-- **Modern UI/UX** - Beautiful gradient-inspired header with custom color scheme
+- **Modern UI/UX** - Beautiful gradient-inspired header with custom color scheme (#e94560 accent)
 - **Hover Effects** - Interactive buttons with smooth color transitions
-- **Tabbed Interface** - Organized layout with emoji icons
+- **Tabbed Interface** - Organized layout with emoji icons for quick navigation
 - **Color-Coded Results** - Visual feedback for better understanding
 - **Responsive Design** - Clean layouts that adapt to content
-- **Professional Typography** - Carefully selected fonts and spacing
+- **Professional Typography** - Carefully selected fonts (Helvetica, Arial) and spacing
 
 ## 📋 Table of Contents
 
